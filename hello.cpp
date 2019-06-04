@@ -6,11 +6,13 @@ int main()
 	int n = 10;
 	cout << "hello world" <<n<< endl;
 
+	//2019/6/4 22ï¼š34æ·»åŠ çš„æ³¨é‡Š
+	
 	int m;
 	cin >> m;
 	cout << "m=" << m << endl;
 	
-	cin.get();		//µÚÒ»¸öcinÎüÊÕEnter
-	cin.get();		//µÚ¶ş¸öcinÈÃ³ÌĞòÔİÍ£
-	//mainº¯ÊıÖĞµÄreturn 0¿ÉÒÔÊ¡ÂÔ
+	cin.get();		//ç¬¬ä¸€ä¸ªcinå¸æ”¶Enter
+	cin.get();		//ç¬¬äºŒä¸ªcinè®©ç¨‹åºæš‚åœ
+	//mainå‡½æ•°ä¸­çš„return 0å¯ä»¥çœç•¥
 }
