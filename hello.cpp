@@ -5,8 +5,6 @@ int main()
 	using namespace std;
 	int n = 10;
 	cout << "hello world" <<n<< endl;
-
-	//2019/6/4 22：34添加的注释
 	
 	int m;
 	cin >> m;
